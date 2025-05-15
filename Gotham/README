@@ -1,2 +1,35 @@
-Citroen
-Actual-homework COMPLETAS
+   @font-face {
+   font-family: 'Gotham';
+   src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Gotham/Gotham-Black.eot') format('embedded-opentype');
+   src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Gotham/Gotham-Black.woff') format('woff');
+   font-weight: 900;
+   font-style: normal;
+   }
+@font-face {
+   font-family: 'Gotham';
+   src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Gotham/Gotham-Bold.eot') format('embedded-opentype');
+   src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Gotham/Gotham-Bold.woff') format('woff');
+   font-weight: 700;
+   font-style: normal;
+   }
+   @font-face {
+   font-family: 'Gotham';
+   src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Gotham/Gotham-Medium.eot') format('embedded-opentype');
+   src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Gotham/Gotham-Medium.woff') format('woff');
+   font-weight: 500;
+   font-style: normal;
+   }   
+   @font-face {
+   font-family: 'Gotham';
+   src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Gotham/Gotham-Book.eot') format('embedded-opentype');
+   src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Gotham/Gotham-Book.woff') format('woff');
+   font-weight: 400;
+   font-style: normal;
+   }
+   @font-face {
+   font-family: 'Gotham';
+   src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Gotham/Gotham-Light.eot') format('embedded-opentype');
+   src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Gotham/Gotham-Light.woff') format('woff');
+   font-weight: 300;
+   font-style: normal;
+   }
