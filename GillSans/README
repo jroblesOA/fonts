@@ -1,0 +1,30 @@
+Cuenta: Grupo Melo / copama
+
+@font-face {
+		  font-family: 'GillSans';
+		  src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/GillSans/GillSansMT-Bold.eot') format('embedded-opentype');
+		  src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/GillSansMT/GillSansMT-Bold.woff') format('woff');
+		  font-weight: 700;
+		  font-style: bold;
+		}
+	@font-face {
+		  font-family: 'GillSans';
+		  src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/GillSansMT/GillSansMT.eot') format('embedded-opentype');
+		  src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/GillSansMT/GillSansMT.woff') format('woff');
+		  font-weight: 500;
+		  font-style: medium;
+		}
+	@font-face {
+		  font-family: 'GillSans';
+		  src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/GillSansMT/GillSansMT.eot') format('embedded-opentype');
+		  src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/GillSansMT/GillSansMT.woff') format('woff');
+		  font-weight: normal;
+		  font-style: normal;
+		}
+	@font-face {
+		  font-family: 'GillSans';
+		  src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/GillSansMT/GillSansMT-Light.eot') format('embedded-opentype');
+		  src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/GillSansMT/GillSansMT-Light.woff') format('woff');
+		  font-weight: 300;
+		  font-style: light;
+		}
