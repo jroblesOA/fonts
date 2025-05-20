@@ -1,1 +1,31 @@
-KTM Powershop
+@font-face {
+    font-family: 'TradeGothicLTCom';
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TradeGothicLTCom/TradeGothicLTCom-Bold.eot') format('embedded-opentype');
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TradeGothicLTCom/TradeGothicLTCom-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TradeGothicLTCom';
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TradeGothicLTCom/TradeGothicLTCom.eot') format('embedded-opentype');
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TradeGothicLTCom/TradeGothicLTCom.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TradeGothicLTCom';
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TradeGothicLTCom/TradeGothicLTCom-Obl.eot') format('embedded-opentype');
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TradeGothicLTCom/TradeGothicLTCom-Obl.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TradeGothicLTCom';
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TradeGothicLTCom/TradeGothicLTCom-Light.eot') format('embedded-opentype');
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TradeGothicLTCom/TradeGothicLTCom-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
