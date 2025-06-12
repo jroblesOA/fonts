@@ -1,1 +1,7 @@
-
+@font-face {
+    font-family: 'AppleChancery';
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/AppleChancery/Apple-Chancery.eot') format('embedded-opentype');
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/AppleChancery/Apple-Chancery.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
