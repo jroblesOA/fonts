@@ -1,0 +1,16 @@
+Cuenta: Interrutas
+
+    @font-face {
+        font-family: 'Humnst777 BT';
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Humanist777BT/Humanist777BT-BoldB.eot') format('embedded-opentype');
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Humanist777BT/Humanist777BT-BoldB.woff') format('woff');
+		    font-weight: bold;
+		    font-style: normal;
+    }
+    @font-face {
+        font-family: 'Humnst777 BT';
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Humanist777BT/Humanist777BT-RomanB.eot') format('embedded-opentype');
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Humanist777BT/Humanist777BT-RomanB.woff') format('woff');
+		    font-weight: normal;
+		    font-style: normal;
+    }
