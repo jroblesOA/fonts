@@ -1,0 +1,23 @@
+Cuenta: Citroen
+
+   @font-face {
+   font-family: 'Citroen Type';
+   src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Citroen/CitroenType-Light.eot') format('embedded-opentype');
+   src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Citroen/CitroenType-Light.woff') format('woff');
+   font-weight: 300;
+   font-style: normal;
+   }
+   @font-face {
+   font-family: 'Citroen Type';
+   src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Citroen/CitroenType-Medium.eot') format('embedded-opentype');
+   src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Citroen/CitroenType-Medium.woff') format('woff');
+   font-weight: 500;
+   font-style: normal;
+   }
+   @font-face {
+   font-family: 'Citroen Type';
+   src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Citroen/CitroenType-Black.eot') format('embedded-opentype');
+   src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Citroen/CitroenType-Black.woff') format('woff');
+   font-weight: 900;
+   font-style: normal;
+   }
