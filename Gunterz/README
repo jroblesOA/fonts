@@ -1,0 +1,59 @@
+Cuenta: Gezpomotor - gezpomotor.prolibu.com
+
+
+    @font-face {
+        font-family: 'Gunterz';
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Gunterz/Gunterz-Black.eot') format('embedded-opentype');
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Gunterz/Gunterz-Black.woff') format('woff');
+        font-weight: 900;
+   		 	font-style: normal;
+    }
+    @font-face {
+        font-family: 'Gunterz';
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Gunterz/Gunterz-BlackItalic.eot') format('embedded-opentype');
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Gunterz/Gunterz-BlackItalic.woff') format('woff');
+        font-weight: 900;
+    		font-style: italic;
+    }
+    @font-face {
+        font-family: 'Gunterz';
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Gunterz/Gunterz-Bold.eot') format('embedded-opentype');
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Gunterz/Gunterz-Bold.woff') format('woff');
+        font-weight: 700;
+    		font-style: normal;
+    }
+    @font-face {
+        font-family: 'Gunterz';
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Gunterz/Gunterz-BoldItalic.eot') format('embedded-opentype');
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Gunterz/Gunterz-BoldItalic.woff') format('woff');
+        font-weight: 700;
+    		font-style: italic;
+    }
+    @font-face {
+        font-family: 'Gunterz';
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Gunterz/Gunterz-Medium.eot') format('embedded-opentype');
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Gunterz/Gunterz-Medium.woff') format('woff');
+        font-weight: 500;
+    		font-style: normal;
+    }
+    @font-face {
+        font-family: 'Gunterz';
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Gunterz/Gunterz-MediumItalic.eot') format('embedded-opentype');
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Gunterz/Gunterz-MediumItalic.woff') format('woff');
+        font-weight: 500;
+    		font-style: italic;
+    }
+    @font-face {
+        font-family: 'Gunterz';
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Gunterz/Gunterz-Regular.eot') format('embedded-opentype');
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Gunterz/Gunterz-Regular.woff') format('woff');
+        font-weight: 300;
+    		font-style: normal;
+    }
+    @font-face {
+        font-family: 'Gunterz';
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Gunterz/Gunterz-Italic.eot') format('embedded-opentype');
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Gunterz/Gunterz-Italic.woff') format('woff');
+        font-weight: 300;
+    		font-style: italic;
+    }
