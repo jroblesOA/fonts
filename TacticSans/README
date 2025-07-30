@@ -1,0 +1,107 @@
+@font-face {
+    font-family: 'Tactic Sans';
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TacticSans/TacticSans-Blk.eot') format('embedded-opentype');
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TacticSans/TacticSans-Blk.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tactic Sans';
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TacticSans/TacticSans-BlkIt.eot') format('embedded-opentype');
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TacticSans/TacticSans-BlkIt.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tactic Sans';
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TacticSans/TacticSans-Bld.eot') format('embedded-opentype');
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TacticSans/TacticSans-Bld.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tactic Sans';
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TacticSans/TacticSans-BldIt.eot') format('embedded-opentype');
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TacticSans/TacticSans-BldIt.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tactic Sans';
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TacticSans/TacticSans-Med.eot') format('embedded-opentype');
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TacticSans/TacticSans-Med.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tactic Sans';
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TacticSans/TacticSans-MedIt.eot') format('embedded-opentype');
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TacticSans/TacticSans-MedIt.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tactic Sans';
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TacticSans/TacticSans-Reg.eot') format('embedded-opentype');
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TacticSans/TacticSans-Reg.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tactic Sans';
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TacticSans/TacticSans-RegIt.eot') format('embedded-opentype');
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TacticSans/TacticSans-RegIt.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tactic Sans';
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TacticSans/TacticSans-Lgt.eot') format('embedded-opentype');
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TacticSans/TacticSans-Lgt.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tactic Sans';
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TacticSans/TacticSans-LgtIt.eot') format('embedded-opentype');
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TacticSans/TacticSans-LgtIt.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tactic Sans';
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TacticSans/TacticSans-Thn.eot') format('embedded-opentype');
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TacticSans/TacticSans-Thn.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tactic Sans';
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TacticSans/TacticSans-ThnIt.eot') format('embedded-opentype');
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/TacticSans/TacticSans-ThnIt.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
