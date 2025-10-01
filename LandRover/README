@@ -1,0 +1,9 @@
+CUENTA: Land Rover Panamá
+
+@font-face {
+        font-family: 'Land Rover';
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/LandRover/LandRover-Bold.eot') format('embedded-opentype');
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/LandRover/LandRover-Bold.woff') format('woff');
+        font-weight: 700;
+        font-style: normal;
+    }
