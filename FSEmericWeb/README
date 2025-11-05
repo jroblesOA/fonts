@@ -1,1 +1,80 @@
+/* 200 — ExtraLight */
+@font-face {
+  font-family: 'FSEmericWeb';
+  src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/FSEmericWeb/FSEmericWeb-ExtraLight.eot') format('embedded-opentype'),
+       url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/FSEmericWeb/FSEmericWeb-ExtraLight.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
 
+/* 300 — Light */
+@font-face {
+  font-family: 'FSEmericWeb';
+  src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/FSEmericWeb/FSEmericWeb-Light.eot') format('embedded-opentype'),
+       url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/FSEmericWeb/FSEmericWeb-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 400 — Core (equivalente a Regular) */
+@font-face {
+  font-family: 'FSEmericWeb';
+  src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/FSEmericWeb/FSEmericWeb-Core.eot') format('embedded-opentype'),
+       url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/FSEmericWeb/FSEmericWeb-Core.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* (Opcional) Si quieres Book como 400 en vez de Core, usa este bloque en lugar del anterior
+@font-face {
+  font-family: 'FSEmericWeb';
+  src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/FSEmericWeb/FSEmericWeb-Book.eot') format('embedded-opentype'),
+       url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/FSEmericWeb/FSEmericWeb-Book.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+*/
+
+/* 500 — Medium */
+@font-face {
+  font-family: 'FSEmericWeb';
+  src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/FSEmericWeb/FSEmericWeb-Medium.eot') format('embedded-opentype'),
+       url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/FSEmericWeb/FSEmericWeb-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 600 — SemiBold */
+@font-face {
+  font-family: 'FSEmericWeb';
+  src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/FSEmericWeb/FSEmericWeb-SemiBold.eot') format('embedded-opentype'),
+       url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/FSEmericWeb/FSEmericWeb-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 700 — Bold */
+@font-face {
+  font-family: 'FSEmericWeb';
+  src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/FSEmericWeb/FSEmericWeb-Bold.eot') format('embedded-opentype'),
+       url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/FSEmericWeb/FSEmericWeb-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 800 — ExtraBold */
+@font-face {
+  font-family: 'FSEmericWeb';
+  src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/FSEmericWeb/FSEmericWeb-ExtraBold.eot') format('embedded-opentype'),
+       url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/FSEmericWeb/FSEmericWeb-ExtraBold.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
