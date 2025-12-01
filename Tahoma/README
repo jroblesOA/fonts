@@ -1,0 +1,20 @@
+Cuenta: Asfrio - asfriocot.prolibu.com
+
+    @font-face {
+        font-family: 'Tahoma';
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Tahoma/Tahoma.eot') format('embedded-opentype');
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Tahoma/Tahoma.woff') format('woff');
+        font-weight: 300;
+        font-style: normal;
+    }
+    
+    @font-face {
+        font-family: 'Tahoma';
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Tahoma/Tahoma-Bold.eot') format('embedded-opentype');
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Tahoma/Tahoma-Bold.woff') format('woff');
+        font-weight: 700;
+        font-style: bold;
+    }
+    #contenido, #contenido * {
+        font-family: 'Tahoma', sans-serif !important;
+    }
