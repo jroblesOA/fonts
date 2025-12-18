@@ -1,1 +1,73 @@
-Royal Enfield
+@font-face {
+ font-family: 'Guardian Sans';
+ src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/GuardianSans/GuardianSans-Black.eot') format('embedded-opentype'),
+  url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/GuardianSans/GuardianSans-Black.woff') format('woff');
+ font-weight: 900;
+ font-style: normal;
+ font-display: swap;
+}
+
+@font-face {
+ font-family: 'Guardian Sans';
+ src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/GuardianSans/GuardianSans-Bold.eot') format('embedded-opentype'),
+  url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/GuardianSans/GuardianSans-Bold.woff') format('woff');
+ font-weight: bold;
+ font-style: normal;
+ font-display: swap;
+}
+
+@font-face {
+ font-family: 'Guardian Sans';
+ src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/GuardianSans/GuardianSans-Semibold.eot') format('embedded-opentype'),
+  url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/GuardianSans/GuardianSans-Semibold.woff') format('woff');
+ font-weight: 600;
+ font-style: normal;
+ font-display: swap;
+}
+
+
+@font-face {
+ font-family: 'Guardian Sans';
+ src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/GuardianSans/GuardianSans-Medium.eot') format('embedded-opentype'),
+  url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/GuardianSans/GuardianSans-Medium.woff') format('woff');
+ font-weight: 500;
+ font-style: normal;
+ font-display: swap;
+}
+
+@font-face {
+ font-family: 'Guardian Sans';
+ src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/GuardianSans/GuardianSans-Regular.eot') format('embedded-opentype'),
+  url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/GuardianSans/GuardianSans-Regular.woff') format('woff');
+ font-weight: normal;
+ font-style: normal;
+ font-display: swap;
+}
+
+@font-face {
+ font-family: 'Guardian Sans';
+ src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/GuardianSans/GuardianSans-Light.eot') format('embedded-opentype'),
+  url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/GuardianSans/GuardianSans-Light.woff') format('woff');
+ font-weight: 300;
+ font-style: normal;
+ font-display: swap;
+}
+
+
+@font-face {
+ font-family: 'Guardian Sans Hairline';
+ src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/GuardianSans/GuardianSans-Hairline.eot') format('embedded-opentype'),
+  url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/GuardianSans/GuardianSans-Hairline.woff') format('woff');
+ font-weight: 200;
+ font-style: normal;
+ font-display: swap;
+}
+
+@font-face {
+ font-family: 'Guardian Sans';
+ src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/GuardianSans/GuardianSans-Thin.eot') format('embedded-opentype'),
+  url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/GuardianSans/GuardianSans-Thin.woff') format('woff');
+ font-weight: 100;
+ font-style: normal;
+ font-display: swap;
+}
