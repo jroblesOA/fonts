@@ -1,1 +1,31 @@
-Baic
+    @font-face {
+        font-family: 'HarmonyOS_Sans_SC';
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Bold.eot') format('embedded-opentype');
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Bold.woff') format('woff');
+        font-weight: 700;
+        font-style: normal;
+    }
+    
+    @font-face {
+        font-family: 'HarmonyOS_Sans_SC';
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC.eot') format('embedded-opentype');
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC.woff') format('woff');
+        font-weight: normal;
+        font-style: normal;
+    }
+    
+    @font-face {
+        font-family: 'HarmonyOS_Sans_SC';
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Light.eot') format('embedded-opentype');
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Light.woff') format('woff');
+        font-weight: 300;
+        font-style: normal;
+    }
+
+    @font-face {
+        font-family: 'HarmonyOS_Sans_SC';
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Thin.eot') format('embedded-opentype');
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Thin.woff') format('woff');
+        font-weight: 200;
+        font-style: normal;
+    }   
