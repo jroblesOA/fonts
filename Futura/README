@@ -9,3 +9,34 @@ alvaro rubio
 Automotor FJDR Fiat
 Laberint
 CTM en linea
+XPENG
+
+/* USO */
+@font-face {
+   font-family: 'FuturaStd';
+   src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Futura/FuturaStd-Book.eot') format('embedded-opentype');
+   src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Futura/FuturaStd-Book.woff') format('woff');
+   font-weight: 400;
+   font-style: normal;
+   }
+@font-face {
+   font-family: 'FuturaStd';
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Futura/FuturaStd-Medium.eot') format('embedded-opentype');
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Futura/FuturaStd-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: medium;
+    }
+@font-face {
+    font-family: 'FuturaStd';
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Futura/futurastd-bold.eot') format('embedded-opentype');
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Futura/futurastd-bold.woff') format('woff');
+    font-weight: 700;
+    font-style: bold;
+    }
+@font-face {
+    font-family: 'FuturaStd';
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Futura/futurastd-FuturaStd-CondExtraBoldObl.eot') format('embedded-opentype');
+    src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/Futura/futurastd-FuturaStd-CondExtraBoldObl.woff') format('woff');
+    font-weight: 800;
+    font-style: black;
+    }
