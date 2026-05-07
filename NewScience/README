@@ -1,1 +1,28 @@
-c
+@font-face {
+	font-family: 'New Science';
+	src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/NewScience/NewScience-Bold.eot') format('embedded-opentype');
+	src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/NewScience/NewScience-Bold.woff') format('woff');
+	font-weight: 700;
+	font-style: bold;
+}
+@font-face {
+	font-family: 'New Science';
+	src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/NewScience/NewScience-Medium.eot') format('embedded-opentype');
+	src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/NewScience/NewScience-Medium.woff') format('woff');
+	font-weight: 500;
+	font-style: medium;
+}
+@font-face {
+	font-family: 'New Science';
+	src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/NewScience/NewScience-Regular.eot') format('embedded-opentype');
+	src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/NewScience/NewScience-Regular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'New Science';
+	src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/NewScience/NewScience-Light.eot') format('embedded-opentype');
+	src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/NewScience/NewScience-Light.woff') format('woff');
+	font-weight: 300;
+	font-style: light;
+ }
