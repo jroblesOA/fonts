@@ -1,0 +1,18 @@
+@font-face {
+      font-family: 'MINISansSerif';
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/MINISansSerif/MINISansSerif-Bold.eot') format('embedded-opentype');
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/MINISansSerif/MINISansSerif-Bold.woff') format('woff');
+        font-weight: 700;
+        font-style: normal;
+          }
+@font-face {
+      font-family: 'MINISansSerif';
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/MINISansSerif/MINISansSerif-Regular.eot') format('embedded-opentype');
+        src: url('//cdn.jsdelivr.net/gh/jerobles/fonts@master/MINISansSerif/MINISansSerif-Regular.woff') format('woff');
+        font-weight: 400;
+        font-style: normal;
+          }
+
+
+CUENTAS: 
+mini-co
