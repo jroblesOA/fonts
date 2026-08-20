@@ -1,0 +1,150 @@
+@font-face {
+    font-family: 'MB Corpo S Text Office';
+    src: url('MBCorpoSTextOffice-Light.eot');
+    src: url('MBCorpoSTextOffice-Light.eot?#iefix') format('embedded-opentype'),
+        url('MBCorpoSTextOffice-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MB Corpo S Text Office';
+    src: url('MBCorpoSTextOffice-Regular.eot');
+    src: url('MBCorpoSTextOffice-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MBCorpoSTextOffice-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MB Corpo S Text';
+    src: url('MBCorpoSText-Regular.eot');
+    src: url('MBCorpoSText-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MBCorpoSText-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MB Corpo S Title';
+    src: url('MBCorpoSTitle-Bold.eot');
+    src: url('MBCorpoSTitle-Bold.eot?#iefix') format('embedded-opentype'),
+        url('MBCorpoSTitle-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MB Corpo S Title';
+    src: url('MBCorpoSTitle-Light.eot');
+    src: url('MBCorpoSTitle-Light.eot?#iefix') format('embedded-opentype'),
+        url('MBCorpoSTitle-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MB Corpo S Title';
+    src: url('MBCorpoSTitle-Regular.eot');
+    src: url('MBCorpoSTitle-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MBCorpoSTitle-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Corporate S';
+    src: url('CorporateS-BoldItalic.eot');
+    src: url('CorporateS-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('CorporateS-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Corporate S';
+    src: url('CorporateS-ExtraBoldItalic.eot');
+    src: url('CorporateS-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('CorporateS-ExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MB Corpo A Title Cond Office';
+    src: url('MBCorpoATitleCondOffice-Regular.eot');
+    src: url('MBCorpoATitleCondOffice-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MBCorpoATitleCondOffice-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MB Corpo A Title Cond';
+    src: url('MBCorpoATitleCond-Regular.eot');
+    src: url('MBCorpoATitleCond-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MBCorpoATitleCond-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MB Corpo A Title Office';
+    src: url('MBCorpoATitleOffice-Regular.eot');
+    src: url('MBCorpoATitleOffice-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MBCorpoATitleOffice-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MB Corpo A Title';
+    src: url('MBCorpoATitle-Regular.eot');
+    src: url('MBCorpoATitle-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MBCorpoATitle-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MB Corpo S Text';
+    src: url('MBCorpoSText-Bold.eot');
+    src: url('MBCorpoSText-Bold.eot?#iefix') format('embedded-opentype'),
+        url('MBCorpoSText-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MB Corpo S Text';
+    src: url('MBCorpoSText-Light.eot');
+    src: url('MBCorpoSText-Light.eot?#iefix') format('embedded-opentype'),
+        url('MBCorpoSText-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MB Corpo S Text Office';
+    src: url('MBCorpoSTextOffice-Bold.eot');
+    src: url('MBCorpoSTextOffice-Bold.eot?#iefix') format('embedded-opentype'),
+        url('MBCorpoSTextOffice-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
